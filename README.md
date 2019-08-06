@@ -2,6 +2,8 @@
 
 The zsh-lerna plugin provides some [completions](#Completions) for [lerna](https://github.com/lerna/lerna).
 
+![gif-preview-image](https://raw.githubusercontent.com/favware/zsh-lerna/master/ezgif.com-crop.gif)
+
 ## Installation
 
 #### [antigen](https://github.com/zsh-users/antigen)
